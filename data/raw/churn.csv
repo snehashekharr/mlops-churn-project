@@ -1,0 +1,6 @@
+customer_id,gender,age,tenure,monthly_charges,churn
+C001,Female,25,3,70,Yes
+C002,Male,40,24,90,No
+C003,Female,30,12,65,Yes
+C004,Male,50,60,100,No
+C005,Female,35,18,80,No

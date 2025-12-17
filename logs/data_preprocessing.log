@@ -1,0 +1,7 @@
+2025-12-18 01:10:25,388 - ERROR - Error during data preprocessing
+2025-12-18 01:10:25,388 - ERROR - [Errno 2] No such file or directory: '../data/raw/churn.csv'
+2025-12-18 01:14:10,803 - INFO - Raw data loaded successfully for preprocessing
+2025-12-18 01:14:10,804 - INFO - Data shape after dropping nulls: (5, 6)
+2025-12-18 01:14:10,817 - INFO - Categorical columns encoded
+2025-12-18 01:14:10,823 - INFO - Train shape: (4, 6), Test shape: (1, 6)
+2025-12-18 01:14:10,829 - INFO - Processed data saved successfully
