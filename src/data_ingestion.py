@@ -33,3 +33,6 @@ def ingest_data():
 
 if __name__ == "__main__":
     ingest_data()
+def ingest_data():
+    df = pd.read_csv("data/raw/churn.csv")
+    df.to_csv("data/raw/churn.csv", index=False)
